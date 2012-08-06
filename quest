@@ -1,0 +1,5 @@
+;Bat Quest
+SetStage T01 10
+SetStage T02 10
+SetStage T03 10
+SetStage dunHunterQST 20

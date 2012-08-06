@@ -1,0 +1,26 @@
+player.removeallitems
+;Dwarven Armor, Gauntlets and Boots
+player.additem 0001394d 1
+player.equipitem 0001394d
+player.additem 0001394c 1
+player.equipitem 0001394c
+player.additem 0001394e 1
+player.equipitem 0001394e
+;Dwarven Sword and Shield
+player.additem 00013999 1
+player.equipitem 00013999
+player.additem 00013950 1
+player.equipitem 00013950
+;Dwarven Bow and Arrows
+player.additem 00013995 1
+player.additem 000139bc 25
+;Gold and Lockpicks
+player.additem f 100
+player.additem a 150
+;Bandit Ally Faction
+player.addtofaction 00043598 0
+;Create Character
+showracemenu
+;Start the mod
+bat characters
+bat quest
